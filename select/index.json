@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "YUME日和",
+  "base_artist": "島谷ひとみ",
+  "createdAt": "2026-03-09T00:24:21.926971Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "YUME日和",
+      "artist": "Hitomi Shimatani",
+      "has_synced": false,
+      "path": "select/01_YUME日和_Hitomi_Shimatani.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "YUME日和",
+      "artist": "島谷ひとみ",
+      "has_synced": true,
+      "path": "select/02_YUME日和_島谷ひとみ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "YUME日和 (2004年3月6日公開 映画ドラえもん 『のび太のワンニャン時空伝』より)",
+      "artist": "島谷ひとみ",
+      "has_synced": true,
+      "path": "select/03_YUME日和_(2004年3月6日公開_映画ドラえもん_『のび太のワンニャン時空伝』より)_島谷ひとみ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "YUME日和",
+      "artist": "島谷ひとみ",
+      "has_synced": true,
+      "path": "select/04_YUME日和_島谷ひとみ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "yume日和",
+      "artist": "島谷ひとみ",
+      "has_synced": false,
+      "path": "select/05_yume日和_島谷ひとみ.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "YUME日和 (Instrumental)",
+      "artist": "島谷ひとみ",
+      "has_synced": true,
+      "path": "select/06_YUME日和_(Instrumental)_島谷ひとみ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "YUME日和",
+      "artist": "島谷 ひとみ",
+      "has_synced": false,
+      "path": "select/pl_01_YUME日和_島谷_ひとみ.txt"
+    }
+  ]
+}
